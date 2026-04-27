@@ -1,2 +1,5 @@
 # Data-Analysis-dasboard
-The dataset contains detailed demographic and lifestyle information about individual customers, likely intended for analyzing bike purchase behavior. Each record represents a unique customer, identified by an ID and name, and includes personal attributes such as marital status, gender, age, and age group classification.
+Sales of bikes and cars in different ages (create interactive dashboard by microsoft excel)
+#objective of the project
+The main objective of this project is to analyze how various demographic, socioeconomic, and lifestyle factors—such as age, income, education, occupation, and commute distance—influence a customer’s decision to purchase a bike.
+# dataset take from the kaggle website
