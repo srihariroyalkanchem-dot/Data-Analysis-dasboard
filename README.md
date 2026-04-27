@@ -21,7 +21,7 @@ Examines whether owning a home affects the likelihood of buying a bike.
 # Dashboard image
 https://github.com/srihariroyalkanchem-dot/Data-Analysis-dasboard/blob/main/data%20analysis%20proj%20screenshot.png
 <img width="901" height="399" alt="data analysis proj screenshot" src="https://github.com/user-attachments/assets/d57df72d-7c3f-48b5-862c-beec1030f952" />
-#project insight
+# Project insight
 Middle-aged customers show a higher tendency to purchase bikes compared to younger and older groups, indicating this segment as a key target audience.
 Customers with moderate to high income levels are more likely to buy bikes, suggesting affordability plays an important role in the decision.
 Individuals with short to moderate commute distances (e.g., 0–5 miles) are more inclined to purchase bikes, likely for convenience and cost-effectiveness.
