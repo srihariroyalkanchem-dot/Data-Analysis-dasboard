@@ -20,6 +20,7 @@ Home Ownership vs Purchase Behavior
 Examines whether owning a home affects the likelihood of buying a bike.
 # Dashboard image
 https://github.com/srihariroyalkanchem-dot/Data-Analysis-dasboard/blob/main/data%20analysis%20proj%20screenshot.png
+<img width="901" height="399" alt="data analysis proj screenshot" src="https://github.com/user-attachments/assets/d57df72d-7c3f-48b5-862c-beec1030f952" />
 
 Cars Owned vs Bike Purchase
 Studies the relationship between number of cars owned and bike purchase decisions.
