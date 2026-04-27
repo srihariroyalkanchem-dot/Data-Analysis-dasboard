@@ -18,5 +18,8 @@ Region-wise Sales Distribution
 Helps understand geographic trends in bike purchases.
 Home Ownership vs Purchase Behavior
 Examines whether owning a home affects the likelihood of buying a bike.
+# Dashboard image
+https://github.com/srihariroyalkanchem-dot/Data-Analysis-dasboard/blob/main/data%20analysis%20proj%20screenshot.png
+
 Cars Owned vs Bike Purchase
 Studies the relationship between number of cars owned and bike purchase decisions.
